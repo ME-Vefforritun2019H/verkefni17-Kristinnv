@@ -17,7 +17,7 @@
 2.3     Setjið upp tengingu við JavaScript skjalið
 
 3       Vinnið í CSS skjalinu
-3.1     importið letrinu Oswald svona: @import url(http://fonts.googleapis.com/css?family=Oswald);
+3.1     importið letrinu Oswald svona: 
 
 3.2     Hafið áhrif á Body
 3.2.1   Setjið bakgrunnslit í #000
@@ -67,7 +67,11 @@
 3.7.8   Setjið text-shadow í lárétt 2 pixla, lóðrétt 2 pixla, blur radius 1 pixla og litinn #9f593f
 3.7.9   Setjið hæðina í 50 pixla
 3.7.10  Setjið padding til vinstri í 1 em
-3.7.11  Setjið padding topp í 10 pixla
+#3.7.11  Setjið padding topp í 10 pixla
+
+
+
+
 
 3.8     Hafið áhrif á class hot
 3.8.1   Setjið bakgrunnslit í #d7666b
